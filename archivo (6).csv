@@ -1,0 +1,120 @@
+MATERIA,CUATRIMESTRE,COMISIONES,TOTAL_ALUMNOS,ABANDONO,INSUFICIENTE,LIBRE,PROMOCIONO,REGULAR,EN_OTRA_CARRERA,PRIMER_CUATRIMESTRE,CUATRIMESTRE_PLAN,AÑO_PLAN
+Herramientas computacionales,2020-1C,2,106,0,0,38,40,8,False,2020-1C,1C,1
+Análisis Matemático I,2020-1C,2,88,0,0,48,37,0,False,2020-1C,1C,1
+"Taller de Ciencia, Tecnología y Sociedad",2020-1C,8,1312,354,8,34,879,29,True,2020-1C,1C,1
+Inglés,2020-1C,19,707,9,3,321,271,50,True,2020-1C,1C,1
+Administración,2020-2C,1,69,0,1,24,41,3,False,2020-2C,2C,1
+Herramientas computacionales,2020-2C,1,31,0,0,24,6,0,False,2020-1C,1C,1
+"Taller de Ciencia, Tecnología y Sociedad",2020-2C,1,74,0,7,28,35,0,True,2020-1C,1C,1
+Álgebra,2020-2C,1,61,0,0,30,31,0,True,2020-2C,2C,1
+Introducción a la Programación,2020-2C,1,70,0,0,27,34,9,False,2020-2C,2C,1
+Inglés,2020-2C,5,157,0,7,88,50,6,True,2020-1C,1C,1
+Análisis Matemático II,2020-2C,1,51,0,8,11,25,6,False,2020-2C,2C,1
+Economía,2021-1C,2,70,0,1,27,31,11,False,2021-1C,1C,2
+Inglés,2021-1C,18,585,6,3,239,22,315,True,2020-1C,1C,1
+Herramientas computacionales,2021-1C,3,139,0,5,45,85,4,False,2020-1C,1C,1
+Introducción al Análisis Contable y Financiero,2021-1C,2,67,27,1,0,36,3,False,2021-1C,1C,2
+Probabilidad y Estadística,2021-1C,1,55,0,4,33,0,18,True,2021-1C,1C,2
+"Taller de Ciencia, Tecnología y Sociedad",2021-1C,12,726,16,2,246,177,285,True,2020-1C,1C,1
+Recolección de Datos y Análisis Primario de la Información,2021-1C,2,71,0,0,30,37,4,False,2021-1C,1C,2
+Análisis Matemático I,2021-1C,2,127,0,0,69,52,6,False,2020-1C,1C,1
+Análisis Matemático II,2021-2C,2,59,0,6,22,1,30,False,2020-2C,2C,1
+Probabilidad y Estadística,2021-2C,1,10,8,0,0,0,2,True,2021-1C,1C,2
+Administración,2021-2C,2,84,0,0,23,0,61,False,2020-2C,2C,1
+Introducción al Análisis Contable y Financiero,2021-2C,1,2,0,0,0,0,0,False,2021-1C,1C,2
+Introducción a la Programación,2021-2C,2,86,27,0,0,56,3,False,2020-2C,2C,1
+Álgebra,2021-2C,2,56,0,0,24,0,32,True,2020-2C,2C,1
+Inglés,2021-2C,7,229,0,0,151,71,7,True,2020-1C,1C,1
+Algoritmos y estructuras de Datos,2021-2C,1,35,9,5,0,13,8,True,2021-2C,2C,2
+Inferencia Estadística y reconocimiento de patrones,2021-2C,1,17,0,0,6,6,5,True,2021-2C,2C,2
+Análisis Matemático I,2021-2C,1,57,0,3,43,0,11,False,2020-1C,1C,1
+Gestión de Datos,2021-2C,1,36,0,0,8,0,28,True,2021-2C,2C,2
+"Taller de Ciencia, Tecnología y Sociedad",2021-2C,5,168,96,1,23,42,6,True,2020-1C,1C,1
+Herramientas computacionales,2021-2C,1,27,0,0,14,13,0,False,2020-1C,1C,1
+Algoritmos y estructuras de Datos,2022-1C,3,258,161,1,0,73,23,True,2021-2C,2C,2
+Inglés,2022-1C,12,787,0,0,332,0,455,True,2020-1C,1C,1
+Economía,2022-1C,1,44,15,4,0,0,25,False,2021-1C,1C,2
+Análisis Multivariado,2022-1C,1,20,0,3,7,0,10,False,2022-1C,1C,3
+Herramientas computacionales,2022-1C,3,163,0,0,56,106,1,False,2020-1C,1C,1
+Recolección de Datos y Análisis Primario de la Información,2022-1C,1,50,0,3,11,0,36,False,2021-1C,1C,2
+Visualización de la información,2022-1C,1,35,0,0,9,0,26,True,2022-1C,1C,3
+Análisis Matemático I,2022-1C,4,140,0,15,54,25,46,False,2020-1C,1C,1
+Introducción al Análisis Contable y Financiero,2022-1C,1,43,22,0,0,0,21,False,2021-1C,1C,2
+Modelado y Simulación,2022-1C,1,20,0,0,0,0,20,False,2022-1C,1C,3
+Probabilidad y Estadística,2022-1C,1,35,15,0,0,18,1,True,2021-1C,1C,2
+"Taller de Ciencia, Tecnología y Sociedad",2022-1C,12,955,11,9,408,221,306,True,2020-1C,1C,1
+Programación Avanzada,2022-1C,1,23,5,0,0,0,18,True,2022-1C,1C,3
+Metodologías de investigación,2022-2C,1,48,18,0,0,30,0,False,2022-2C,2C,2
+Análisis Matemático II,2022-2C,2,87,0,7,37,13,30,False,2020-2C,2C,1
+Administración,2022-2C,2,113,0,0,36,0,77,False,2020-2C,2C,1
+Introducción a la Programación,2022-2C,2,124,24,16,0,41,43,False,2020-2C,2C,1
+Inteligencia Artificial,2022-2C,1,19,9,0,3,0,7,True,2022-2C,2C,3
+Probabilidad y Estadística,2022-2C,1,11,9,0,0,0,2,True,2021-1C,1C,2
+Inglés,2022-2C,5,337,0,1,165,0,171,True,2020-1C,1C,1
+Taller I - Big Data y las políticas públicas,2022-2C,1,20,1,0,0,17,2,False,2022-2C,2C,3
+Análisis en Redes Sociales,2022-2C,2,16,0,0,5,11,0,False,2022-2C,2C,3
+Álgebra,2022-2C,2,137,0,13,59,0,65,True,2020-2C,2C,1
+Algoritmos y estructuras de Datos,2022-2C,1,43,24,0,0,17,2,True,2021-2C,2C,2
+"Taller de Ciencia, Tecnología y Sociedad",2022-2C,5,233,71,0,86,41,35,True,2020-1C,1C,1
+Inferencia Estadística y reconocimiento de patrones,2022-2C,1,29,6,1,12,0,10,True,2021-2C,2C,2
+Gestión de Datos,2022-2C,1,35,0,0,14,0,21,True,2021-2C,2C,2
+Herramientas computacionales,2022-2C,1,26,1,3,8,13,1,False,2020-1C,1C,1
+Técnicas de Investigación de Mercado,2022-2C,1,61,8,1,24,14,14,False,2022-2C,2C,3
+Programación Avanzada,2023-1C,1,49,0,2,25,0,22,True,2022-1C,1C,3
+Recolección de Datos y Análisis Primario de la Información,2023-1C,2,89,0,3,23,0,63,False,2021-1C,1C,2
+Probabilidad y Estadística,2023-1C,2,77,53,3,0,0,21,True,2021-1C,1C,2
+Formulación y evaluación de proyectos tecnológicos,2023-1C,1,43,5,0,14,0,24,False,2023-1C,1C,4
+Visualización de la información,2023-1C,1,32,10,0,1,0,21,True,2022-1C,1C,3
+"Taller de Ciencia, Tecnología y Sociedad",2023-1C,12,1107,112,28,387,159,421,True,2020-1C,1C,1
+Modelado y Simulación,2023-1C,1,21,16,2,0,0,3,False,2022-1C,1C,3
+Análisis Matemático I,2023-1C,4,194,0,21,107,0,66,False,2020-1C,1C,1
+Computación en la Nube,2023-1C,1,17,1,0,0,0,16,False,2023-1C,1C,4
+Taller I - Big Data y las políticas públicas,2023-1C,1,40,28,0,0,12,0,False,2022-2C,2C,3
+Herramientas computacionales,2023-1C,3,211,0,0,60,149,2,False,2020-1C,1C,1
+Análisis Multivariado,2023-1C,1,20,0,1,11,0,8,False,2022-1C,1C,3
+Técnicas de Investigación de Mercado,2023-1C,1,49,0,0,33,0,16,False,2022-2C,2C,3
+Taller II _x0096_ Big Data y la Salud,2023-1C,1,19,0,0,5,14,0,False,2023-1C,1C,4
+Comercio Electrónico,2023-1C,1,23,0,1,0,21,1,False,2023-1C,1C,4
+Inglés,2023-1C,12,920,0,1,404,3,512,True,2020-1C,1C,1
+Algoritmos y estructuras de Datos,2023-1C,6,692,227,111,24,169,161,True,2021-2C,2C,2
+Introducción al Análisis Contable y Financiero,2023-1C,2,77,44,0,0,7,26,False,2021-1C,1C,2
+Economía,2023-1C,2,73,3,0,19,0,51,False,2021-1C,1C,2
+"Taller de Ciencia, Tecnología y Sociedad",2023-2C,7,324,0,1,207,58,58,True,2020-1C,1C,1
+Taller I - Big Data y las políticas públicas,2023-2C,1,32,0,0,19,13,0,False,2022-2C,2C,3
+Visualización de la información,2023-2C,2,58,0,0,35,0,23,True,2022-1C,1C,3
+Seminario Final,2023-2C,1,18,6,0,0,6,6,False,2023-2C,2C,4
+Técnicas de Investigación de Mercado,2023-2C,1,44,0,21,0,0,23,False,2022-2C,2C,3
+Recolección de Datos y Análisis Primario de la Información,2023-2C,1,12,0,4,6,2,0,False,2021-1C,1C,2
+Taller II _x0096_ Big Data y la Salud,2023-2C,1,12,0,0,5,7,0,False,2023-1C,1C,4
+Álgebra,2023-2C,7,398,9,78,139,37,135,True,2020-2C,2C,1
+Formulación y evaluación de proyectos tecnológicos,2023-2C,1,17,0,0,11,6,0,False,2023-1C,1C,4
+Práctica Profesional Supervisada (PPS),2023-2C,1,18,6,0,0,12,0,False,2023-2C,2C,4
+Análisis Matemático II,2023-2C,2,93,0,8,59,5,21,False,2020-2C,2C,1
+Gestión de Datos,2023-2C,3,122,7,2,23,88,2,True,2021-2C,2C,2
+Inferencia Estadística y reconocimiento de patrones,2023-2C,3,39,0,0,16,21,2,True,2021-2C,2C,2
+Análisis Matemático I,2023-2C,2,91,23,9,42,10,7,False,2020-1C,1C,1
+Análisis en Redes Sociales,2023-2C,1,23,0,0,12,10,1,False,2022-2C,2C,3
+Inteligencia Artificial,2023-2C,1,6,0,0,2,2,2,True,2022-2C,2C,3
+Inglés,2023-2C,7,666,0,0,358,0,308,True,2020-1C,1C,1
+Metodologías de investigación,2023-2C,3,55,5,0,7,32,11,False,2022-2C,2C,2
+Algoritmos y estructuras de Datos,2023-2C,3,166,90,22,0,38,16,True,2021-2C,2C,2
+Probabilidad y Estadística,2023-2C,1,39,0,0,29,10,0,True,2021-1C,1C,2
+Administración,2023-2C,2,163,34,1,26,43,59,False,2020-2C,2C,1
+Introducción a la Programación,2023-2C,2,160,40,0,21,44,55,False,2020-2C,2C,1
+Algoritmos y estructuras de Datos,2024-1C,8,737,196,259,0,141,141,True,2021-2C,2C,2
+Visualización de la información,2024-1C,1,57,21,0,0,29,7,True,2022-1C,1C,3
+Análisis Matemático I,2024-1C,4,251,34,24,109,14,70,False,2020-1C,1C,1
+Análisis Multivariado,2024-1C,1,33,17,5,0,0,11,False,2022-1C,1C,3
+"Taller de Ciencia, Tecnología y Sociedad",2024-1C,12,1117,59,34,550,305,169,True,2020-1C,1C,1
+Programación Avanzada,2024-1C,4,256,24,28,27,0,177,True,2022-1C,1C,3
+Computación en la Nube,2024-1C,1,17,1,0,2,0,14,False,2023-1C,1C,4
+Economía,2024-1C,2,94,3,2,14,0,75,False,2021-1C,1C,2
+Formulación y evaluación de proyectos tecnológicos,2024-1C,1,49,22,0,0,0,27,False,2023-1C,1C,4
+Herramientas computacionales,2024-1C,3,211,0,0,70,108,33,False,2020-1C,1C,1
+Taller II _x0096_ Big Data y la Salud,2024-1C,1,18,0,0,8,0,10,False,2023-1C,1C,4
+Introducción al Análisis Contable y Financiero,2024-1C,2,108,47,1,0,18,42,False,2021-1C,1C,2
+Modelado y Simulación,2024-1C,1,44,33,4,0,0,7,False,2022-1C,1C,3
+Recolección de Datos y Análisis Primario de la Información,2024-1C,2,91,0,7,21,0,63,False,2021-1C,1C,2
+Probabilidad y Estadística,2024-1C,3,174,79,2,15,57,21,True,2021-1C,1C,2
+Comercio Electrónico,2024-1C,1,26,0,0,4,0,22,False,2023-1C,1C,4
+Inglés,2024-1C,10,885,0,6,484,0,395,True,2020-1C,1C,1
