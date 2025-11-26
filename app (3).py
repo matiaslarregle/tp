@@ -524,7 +524,7 @@ def cargar_datos_reales():
 
         # Cargar datos históricos REALES
         try:
-            historico_df = pd.read_csv('archivo.csv')
+            historico_df = pd.read_csv('archivo (6).csv')
 
             # Verificar que tenemos las columnas mínimas necesarias
             columnas_requeridas = ['MATERIA', 'CUATRIMESTRE', 'TOTAL_ALUMNOS']
