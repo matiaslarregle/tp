@@ -515,7 +515,7 @@ def cargar_datos_reales():
     try:
         # Cargar predicciones
         try:
-            predicciones_df = pd.read_csv('/content/predicciones_2024_2_allmaterias.csv')
+            predicciones_df = pd.read_csv('predicciones_2024_2_allmaterias.csv')
             st.success("✅ Datos de predicciones cargados correctamente")
         except Exception as e:
             st.error(f"❌ Error cargando predicciones_2024_2_allmaterias.csv: {e}")
@@ -524,7 +524,7 @@ def cargar_datos_reales():
 
         # Cargar datos históricos REALES
         try:
-            historico_df = pd.read_csv('/content/archivo.csv')
+            historico_df = pd.read_csv('archivo.csv')
 
             # Verificar que tenemos las columnas mínimas necesarias
             columnas_requeridas = ['MATERIA', 'CUATRIMESTRE', 'TOTAL_ALUMNOS']
