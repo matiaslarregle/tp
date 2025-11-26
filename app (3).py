@@ -161,36 +161,52 @@ class ChatbotOfertaAcademica:
         return "consulta_general"
 
     def _corregir_datos_historicos(self, respuesta, pregunta_original):
+        """Corrige datos históricos en la respuesta basándose en los datos reales"""
         try:
             pregunta_lower = pregunta_original.lower()
-
+            
             # Buscar materia en la pregunta
             materia_consultada = None
             for materia in self.df_historico['MATERIA'].unique():
                 if materia.lower() in pregunta_lower:
                     materia_consultada = materia
                     break
-
+            
             if not materia_consultada:
                 return respuesta
 
             # Buscar año y cuatrimestre en la pregunta
             año_consultado = None
             cuatrimestre_consultado = None
-
+            
             for año in ['2020', '2021', '2022', '2023', '2024']:
                 if año in pregunta_original:
                     año_consultado = año
                     break
-
+            
             if '1c' in pregunta_lower:
                 cuatrimestre_consultado = '1C'
             elif '2c' in pregunta_lower:
                 cuatrimestre_consultado = '2C'
-
+            
             # Buscar datos reales
             datos_reales = self._obtener_datos_reales_especificos(materia_consultada, año_consultado, cuatrimestre_consultado)
-
+            
+            if datos_reales and datos_reales != "No hay datos específicos":
+                # Verificar si la respuesta contiene datos incorrectos
+                if any(palabra in respuesta.lower() for palabra in ['estimad', 'aproximad', 'probable', 'posible', '280', '300', '250']):
+                    # SOLO agregar los datos reales al final, no reemplazar toda la respuesta
+                    respuesta = respuesta + " " + "DATOS REALES ENCONTRADOS: " + datos_reales
+                
+            elif datos_reales == "No hay datos específicos":
+                # Si no hay datos pero la respuesta está inventando números
+                if any(str(num) in respuesta for num in [280, 300, 250, 200, 150]):
+                    respuesta = "No hay datos reales disponibles para la consulta específica. " + respuesta
+            
+            return respuesta
+            
+        except Exception as e:
+            return respuesta
             if datos_reales and datos_reales != "No hay datos específicos":
                 # Verificar si la respuesta contiene datos incorrectos
                 if any(palabra in respuesta.lower() for palabra in ['estimad', 'aproximad', 'probable', 'posible', '280', '300', '250']):
