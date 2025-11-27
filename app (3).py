@@ -26,7 +26,7 @@ st.set_page_config(
 def configurar_openrouter():
     return OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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"
+        api_key="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"
     )
 
 class AnalizadorTextoIA:
